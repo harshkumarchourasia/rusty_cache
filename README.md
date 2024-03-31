@@ -47,15 +47,3 @@
   curl -X DELETE http://localhost:3000/v1/unset/1
   ```
 
-### Is the key set
-
-- **Endpoint**: `/v1/isset/:key`
-- **Method**: `GET`
-- **Description**: Checks if the specified key is set in the database.
-- **Example**:
-  ```bash
-  curl -X GET http://localhost:3000/v1/isset/1
-  ```
-
---- 
-
