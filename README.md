@@ -12,8 +12,8 @@
 - **Request Body**:
   ```json
   {
-    "key": key,
-    "value": value
+    "key": "key",
+    "value": "value"
   }
   ```
 - **Description**: Sets the value of the specified key in the database.
