@@ -1,5 +1,5 @@
 
-# Toy Redis Database built using Rust
+# Toy Redis Database built using Rust (WIP)
 
 ## API Usage
 
